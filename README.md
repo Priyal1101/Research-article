@@ -2,6 +2,7 @@
 A published research article that explores the various regression methods in relation to analyzing and forecasting financial statements of an organization.
 
 ABSTRACT
+
 This paper studies multiple linear regression and time series regression: two regression methods, the task of which is to learn the relationship between various components of financial statements and the profits earned. Time series regression is used to understand and predict the behavior of dynamic systems such as the modeling and forecasting of economic, financial, biological, and engineering systems.
 
 For the machine learning methods that have been used to conduct this study, we have used a dataset that was created by using information provided by the luxury brands themselves to maintain accuracy and authenticity of data. This will help in providing and gaining accurate information.
